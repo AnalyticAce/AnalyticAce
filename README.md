@@ -78,19 +78,6 @@
 	<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>&nbsp; 
 </div>
 
-<!--
-<div align="center">
-	<h2>🚀 Activity Track</h2>
-</div>
-
-<div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
-</div>
-
-<p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
-</p> -->
-
 <div align="center">
 	<h2>Find me Here 👇</h2>
 	<a href="https://www.linkedin.com/in/shalom-dosseh-4a484a262/" target="_blank">
