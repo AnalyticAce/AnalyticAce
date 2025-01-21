@@ -1,9 +1,7 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [DOSSEH Shalom](https://www.linkedin.com/in/edouard-touch-344108183/) 
-                                                                                                                     
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [DOSSEH Shalom](https://www.linkedin.com/in/edouard-touch-344108183/)                                                                                                                
 <div align="center">
 	<img src="source/madara2.gif"/><br>
 </div>
-
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
 
 <div align="center">
