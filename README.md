@@ -10,12 +10,6 @@
 	<img src="https://komarev.com/ghpvc/?username=AnalyticAce&color=green"/><br>
 </div>
 
-<!--
-<div align="center">
-	<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
-</div>
--->
-
 - 🔭 I’m currently working on **Trading Algorighms**
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
