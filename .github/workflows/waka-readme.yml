@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - main
-
+                    workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+    
 jobs:
   update-readme:
     name: Update this repo's README
