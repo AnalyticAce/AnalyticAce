@@ -1,81 +1,59 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [DOSSEH Shalom](https://www.linkedin.com/in/edouard-touch-344108183/)                                                                                                                
-<div align="center">
-	<img src="source/madara2.gif"/><br>
-</div>
-<h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
+# Hey there, I'm DOSSEH Shalom! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=AnalyticAce&color=green"/><br>
-</div>
+I am a third-year computer science student honing my expertise by solving real-world software engineering challenges. My academic journey prioritizes self-learning and adaptability, equipping me to tackle complex problems with innovative solutions through a first-principles thinking approach.
 
-- 🔭 I’m currently working on **Trading Algorighms**
+Currently, I am expanding my skill set in data science and analytical engineering, with a strong focus on financial and quantitative investment. My long-term aspiration is to merge my technical expertise with my passion for economics to design systematic and data-driven investment strategies.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+My ultimate goal is to harness technology to create transformative economic opportunities and drive sustainable, long-lasting impact.
 
-- 🌱 I’m currently learning **Python, R, SQL and Data visualisation tools**
+> [!IMPORTANT]  
+> I’m currently looking for opportunities to:  
+> - Contribute to innovative projects in **data science**, **quantitative finance**, or **analytical engineering**.  
+> - Join a forward-thinking team focused on **systematic investment strategies** or **fintech solutions**.  
+> - Collaborate on initiatives that combine **technology and economics** to drive sustainable impact.  
 
-- 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
+I’m open to roles that allow me to grow, collaborate with skilled professionals, and contribute to impactful solutions.
 
-- 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/AnalyticAce)
+---
 
-- 💬 Ask me about **Python, Fintech**
+<details>
+<summary><samp>Tools & Technologies I've Worked With</samp></summary>
 
-- 📫 How to reach me **dossehdosseh14@gmail.com**
+### <samp>Programming Languages</samp>
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20"/> **Python**  
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20"/> **JavaScript** 
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="20"/> **C++**
+- <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="20"/> **Bash Scripting**
 
-- ⚡ Fun fact **I don't code for fun 🔥**
+### <samp>Frameworks & Libraries</samp>
+- <img src="https://th.bing.com/th/id/OIP.jq0y7hxCVAIuZR8zGFfDRgAAAA?rs=1&pid=ImgDetMain" alt="FastAPI" width="20"/> **FastAPI**  
+- <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="20"/> **Pandas**
+- <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy" width="20"/> **Numpy**  
+- <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="20"/> **TensorFlow**
+- <img src="https://th.bing.com/th/id/OIP.ckzi6TrdGgbbYBgrx23BMQHaHa?rs=1&pid=ImgDetMain" alt="Seaborn" width="20"/> **Seaborn**
 
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=67b427&bar_color_cover=false"></a>
-</p>
+### <samp>Databases</samp>
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="20"/> **MongoDB**  
+- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="20"/> **MySQL**  
 
-<div align="center">
-	<h2>🛠 Technologies and tools</h2>
-	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>&nbsp;  
-	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"/>&nbsp; 
+### <samp>DevOps & Cloud</samp>
+- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20"/> **Git**, **CI/CD**, **GitHub Actions**
+- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="20"/> **Docker**
+- <img src="https://th.bing.com/th/id/OIP.7dRuezYSCw8Pl_k2cUKzwwHaHa?w=512&h=512&rs=1&pid=ImgDetMain" alt="Azure" width="20"/> **Azure**
+- <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="GCP" width="20"/> **Google Cloud**
+- <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="20"/> **Jenkins**
+- <img src='https://img.icons8.com/color/48/000000/ansible.png' alt="Ansible" width="20"/> **Ansible**
+- <img src='https://img.icons8.com/color/48/000000/kubernetes.png' alt="kubernetes" width="20"/> **kubernetes**
 
-<h2>👨🏾‍💻 Languages</h2>
-	<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
- 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
-	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp; 
-	<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
- 	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=blue"/>&nbsp; 
+### <samp>Environment</samp>
+- <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="20"/> **GitHub**
+- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="20"/> **Unix/Linux**  
 
-<h2>📖 What I am currently improving on</h2>
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;  
-	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
- 	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=black"/>&nbsp; 
-	
-<h2>☄️ OS</h2>
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp; 
-	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp; 
-		
-<h2>🛡️ Security Platforms</h2>
-	<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>&nbsp; 
-</div>
+</details>
 
-<div align="center">
-	<h2>Find me Here 👇</h2>
-	<a href="https://www.linkedin.com/in/shalom-dosseh-4a484a262/" target="_blank">
-	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-</div>
+## Find Me! 📡
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-dosseh-4a484a262/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dossehdosseh14@gmail.com)
+
+Looking forward to building something amazing together! 🚀 
