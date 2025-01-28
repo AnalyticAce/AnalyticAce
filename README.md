@@ -6,7 +6,7 @@ Currently, I am expanding my skill set in data science and analytical engineerin
 
 My ultimate goal is to harness technology to create transformative economic opportunities and drive sustainable, long-lasting impact.
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > I’m currently looking for opportunities to:  
 > - Contribute to innovative projects in **data science**, **quantitative finance**, or **analytical engineering**.  
 > - Join a forward-thinking team focused on **systematic investment strategies** or **fintech solutions**.  
