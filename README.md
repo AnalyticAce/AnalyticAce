@@ -1,5 +1,5 @@
 ![banner](.github/assets/Linkedin_Cover_-_Data-Driven_t1tqsx.webp)
-# Hey there, I'm DOSSEH Shalom! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey there, I'm DOSSEH Shalom ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I am a third-year computer science student honing my expertise by solving real-world software engineering challenges. My academic journey prioritizes self-learning and adaptability, equipping me to tackle complex problems with innovative solutions through a first-principles thinking approach.
 
